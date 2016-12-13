@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GoalAgent.GoalBasedAgent" Collapsed="true">
+    <Position X="15.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAIAAgBAAAIAAAAACIAAAAAAA=</HashCode>
+      <FileName>GoalBasedAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.GoalBasedAgentFactory" Collapsed="true">
+    <Position X="13.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAIAAAAAAAAAAACAAAAAEAAAAAAAA=</HashCode>
+      <FileName>GoalBasedAgentFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.Goals.AttackGoal">
+    <Position X="5.5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\AttackGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.Goals.AttackGoalEvaluator" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="3.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAABACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\AttackGoalEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GoalAgent.Goals.EatGoal">
+    <Position X="1" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEAAEAA=</HashCode>
+      <FileName>Goals\EatGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.Goals.EatGoalEvaluator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAABACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\EatGoalEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GoalAgent.Goals.ExploreGoal">
+    <Position X="7.75" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\ExploreGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.Goals.ExploreGoalEvaluator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAABACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\ExploreGoalEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GoalAgent.Goals.Goal&lt;T&gt;">
+    <Position X="2" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAEAACAAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Goals\Goal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.Goals.MoveGoal">
+    <Position X="10" Y="7" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Goals\MoveGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoalAgent.Goals.ThinkGoal">
+    <Position X="3.25" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\ThinkGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GoalAgent.Goals.IGoalEvaluator&lt;T&gt;">
+    <Position X="5.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAABACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals\IGoalEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GoalAgent.Goals.GoalStatus">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAIAAAAAAAAAAAAAAAAgABAAAAAAAAA=</HashCode>
+      <FileName>Goals\Goal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

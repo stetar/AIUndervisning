@@ -1,0 +1,40 @@
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\obj\Debug\GoalAgent.csprojResolveAssemblyReference.cache
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\bin\Debug\GoalAgent.dll
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\bin\Debug\GoalAgent.pdb
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\bin\Debug\AIFramework.dll
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\bin\Debug\AIFramework.pdb
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\obj\Debug\GoalAgent.dll
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\obj\Debug\GoalAgent.pdb
+C:\Users\PalleRosendahl\Downloads\Kunstig Intelligens\Kunstig Intelligens\AIFrameworkModelBased\AIFramework\GoalAgent\bin\Debug\Icon.png
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\obj\Debug\GoalAgent.csprojResolveAssemblyReference.cache
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\obj\Debug\GoalAgent.dll
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\obj\Debug\GoalAgent.pdb
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\bin\Debug\Icon.png
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\bin\Debug\GoalAgent.dll
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\bin\Debug\GoalAgent.pdb
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\bin\Debug\AIFramework.dll
+C:\Users\PalleRosendahl\Downloads\UpdatedFrameworkNameSpaceProtection2015WithStateAndModel\GoalAgent\bin\Debug\AIFramework.pdb
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\bin\Debug\Icon.png
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\bin\Debug\GoalAgent.dll
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\bin\Debug\GoalAgent.pdb
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\bin\Debug\AIFramework.dll
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\bin\Debug\AIFramework.pdb
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\obj\Debug\GoalAgent.csprojResolveAssemblyReference.cache
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\obj\Debug\GoalAgent.dll
+C:\Users\palle\Desktop\aaasdd\ss\GoalAgent\obj\Debug\GoalAgent.pdb
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\bin\Debug\Icon.png
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\bin\Debug\GoalAgent.dll
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\bin\Debug\GoalAgent.pdb
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\bin\Debug\AIFramework.dll
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\bin\Debug\AIFramework.pdb
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\obj\Debug\GoalAgent.csprojResolveAssemblyReference.cache
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\obj\Debug\GoalAgent.dll
+C:\Users\palle\Desktop\aaasdd\UpdatedFrameworkNameSpaceProtection2015WithGoalBased\GoalAgent\obj\Debug\GoalAgent.pdb
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\bin\Debug\Icon.png
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\bin\Debug\GoalAgent.dll
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\bin\Debug\GoalAgent.pdb
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\bin\Debug\AIFramework.dll
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\bin\Debug\AIFramework.pdb
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\obj\Debug\GoalAgent.csprojResolveAssemblyReference.cache
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\obj\Debug\GoalAgent.dll
+C:\tmp\New folder\UpdatedFrameworkNameSpaceProtection2016\GoalAgent\obj\Debug\GoalAgent.pdb
